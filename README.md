@@ -1,6 +1,6 @@
 # Interactive 2D Coulomb's Law Simulator
 
-An interactive, vector-accurate physics simulation tool written in Python that calculates and renders electrostatic forces in a 2D plane according to Coulomb's Law and the principle of superposition.
+An interactive vector-accurate physics simulation tool written in Python that calculates and renders electrostatic forces in a 2D plane according to Coulomb's Law and the principle of superposition.
 
 ## Overview
 
